@@ -1,5 +1,5 @@
 # School-Proxies
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/67ee41f0-c227-4b28-83a5-f1e09950be41)
 
 Understanding and Setting Up School Proxies.
 
